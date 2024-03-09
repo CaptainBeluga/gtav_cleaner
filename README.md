@@ -1,6 +1,6 @@
 # GTA V - CLEANER
 
-Avoid the message `You Are Attempting to Access GTA Online Servers with an Altered Version of the Game` by auto-cleaning the GTA5 directory.
+Avoid the message => `You Are Attempting to Access GTA Online Servers with an Altered Version of the Game` by auto-cleaning the GTA5 directory.
 
 # INSTRUCTIONS ✍️
 - Place `gta5_cleaner` inside your `Grand Theft Auto` game folder
